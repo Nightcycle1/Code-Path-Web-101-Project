@@ -1,6 +1,5 @@
 # Web 101 Advocacy Project
 
-<img src='https://i.imgur.com/lZrZGiC.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## 📝 Summary
 This project was created for my CodePath Web 101 course. While currently unfinished, it demonstrates foundational web development skills and will serve as the basis for future development.
@@ -47,6 +46,8 @@ Techniques learned in CodePath's Intro to Web Development:
 - **Frontend**: HTML, CSS, JavaScript
 - **Layout**: CSS Flexbox
 - **Version Control**: Git/GitHub
+
+<img src='https://i.imgur.com/lZrZGiC.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## 🚀 Getting Started
 To view the project locally:
