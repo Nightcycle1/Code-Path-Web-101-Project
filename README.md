@@ -47,7 +47,7 @@ Techniques learned in CodePath's Intro to Web Development:
 - **Layout**: CSS Flexbox
 - **Version Control**: Git/GitHub
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/b1dqTpK"  ><a href="//imgur.com/a/b1dqTpK">WEB 101 Project Unfinished GIF</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/b1dqTpK' title='Video Demo' width='' alt='Video Demo' />
 
 ## 🚀 Getting Started
 To view the project locally:
