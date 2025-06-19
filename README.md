@@ -1,8 +1,6 @@
-# Code-Path-Web-101-Project
-
 # Web 101 Advocacy Project
 
-![Project Demo](https://i.imgur.com/lZrZGiC.gif)
+<img src='https://i.imgur.com/lZrZGiC.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## 📝 Summary
 This project was created for my CodePath Web 101 course. While currently unfinished, it demonstrates foundational web development skills and will serve as the basis for future development.
