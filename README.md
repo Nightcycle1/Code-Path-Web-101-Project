@@ -47,7 +47,7 @@ Techniques learned in CodePath's Intro to Web Development:
 - **Layout**: CSS Flexbox
 - **Version Control**: Git/GitHub
 
-<img src='https://i.imgur.com/lZrZGiC.gif' title='Video Demo' width='' alt='Video Demo' />
+[<img src='https://i.imgur.com/lZrZGiC.gif' title='Video Demo' width='' alt='Video Demo' />](https://i.imgur.com/lZrZGiC.gif)
 
 ## 🚀 Getting Started
 To view the project locally:
