@@ -49,8 +49,4 @@ Techniques learned in CodePath's Intro to Web Development:
 
 [![WEB 101 Project Demo](https://i.imgur.com/b1dqTpK.gif)](https://imgur.com/a/b1dqTpK)
 
-## 🚀 Getting Started
-To view the project locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/project-name.git
+
